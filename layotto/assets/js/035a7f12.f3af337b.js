@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklayotto_docusaurus=self.webpackChunklayotto_docusaurus||[]).push([[8],{2231:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/layotto-docusaurus/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":7,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
